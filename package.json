@@ -1,16 +1,16 @@
 {
   "author": {
-    "name": "Remy Loubradou",
-    "email": "remy.loubradou@gmail.com",
-    "url": "https://twitter.com/#!/lbdremy"
+    "name": "Yuriy Tymchuk",
+    "email": "yuriy.tymchul@me.com",
+    "url": "https://yuriy.tymch.uk"
   },
-  "name": "solr-client",
+  "name": "uko-solr-client",
   "main": "./main",
   "description": " A Solr client library for indexing, adding, deleting, committing, optimizing and searching documents within an Apache Solr installation (version>=3.2)",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lbdremy/solr-node-client"
+    "url": "https://github.com/Uko/solr-node-client"
   },
   "engines": {
     "node": ">= 0.4.7"
